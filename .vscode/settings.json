@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\mbednarz\\OneDrive - South Orangetown Central School District\\AP Comp Sci\\bridges-java-3.4.2.jar"
+    ]
+}
